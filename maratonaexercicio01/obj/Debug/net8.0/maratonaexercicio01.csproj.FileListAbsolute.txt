@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 C:\Users\frederico.psousa\source\repos\maratonaexercicio01\bin\Debug\net8.0\maratonaexercicio01.exe
 C:\Users\frederico.psousa\source\repos\maratonaexercicio01\bin\Debug\net8.0\maratonaexercicio01.deps.json
 C:\Users\frederico.psousa\source\repos\maratonaexercicio01\bin\Debug\net8.0\maratonaexercicio01.runtimeconfig.json
@@ -13,3 +14,19 @@ C:\Users\frederico.psousa\source\repos\maratonaexercicio01\obj\Debug\net8.0\refi
 C:\Users\frederico.psousa\source\repos\maratonaexercicio01\obj\Debug\net8.0\maratonaexercicio01.pdb
 C:\Users\frederico.psousa\source\repos\maratonaexercicio01\obj\Debug\net8.0\maratonaexercicio01.genruntimeconfig.cache
 C:\Users\frederico.psousa\source\repos\maratonaexercicio01\obj\Debug\net8.0\ref\maratonaexercicio01.dll
+=======
+C:\Users\Frederico\source\repos\maratonaexercicio01\bin\Debug\net8.0\maratonaexercicio01.exe
+C:\Users\Frederico\source\repos\maratonaexercicio01\bin\Debug\net8.0\maratonaexercicio01.deps.json
+C:\Users\Frederico\source\repos\maratonaexercicio01\bin\Debug\net8.0\maratonaexercicio01.runtimeconfig.json
+C:\Users\Frederico\source\repos\maratonaexercicio01\bin\Debug\net8.0\maratonaexercicio01.dll
+C:\Users\Frederico\source\repos\maratonaexercicio01\bin\Debug\net8.0\maratonaexercicio01.pdb
+C:\Users\Frederico\source\repos\maratonaexercicio01\obj\Debug\net8.0\maratonaexercicio01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Frederico\source\repos\maratonaexercicio01\obj\Debug\net8.0\maratonaexercicio01.AssemblyInfoInputs.cache
+C:\Users\Frederico\source\repos\maratonaexercicio01\obj\Debug\net8.0\maratonaexercicio01.AssemblyInfo.cs
+C:\Users\Frederico\source\repos\maratonaexercicio01\obj\Debug\net8.0\maratonaexercicio01.csproj.CoreCompileInputs.cache
+C:\Users\Frederico\source\repos\maratonaexercicio01\obj\Debug\net8.0\maratonaexercicio01.dll
+C:\Users\Frederico\source\repos\maratonaexercicio01\obj\Debug\net8.0\refint\maratonaexercicio01.dll
+C:\Users\Frederico\source\repos\maratonaexercicio01\obj\Debug\net8.0\maratonaexercicio01.pdb
+C:\Users\Frederico\source\repos\maratonaexercicio01\obj\Debug\net8.0\maratonaexercicio01.genruntimeconfig.cache
+C:\Users\Frederico\source\repos\maratonaexercicio01\obj\Debug\net8.0\ref\maratonaexercicio01.dll
+>>>>>>> 6c4e46b13b838e81fd56ada9e8fd4879a8bd0402
