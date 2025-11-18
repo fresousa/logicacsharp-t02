@@ -1,0 +1,15 @@
+C:\Users\frederico.psousa\source\repos\vetoresmatrizes\bin\Debug\net8.0\vetoresmatrizes.exe
+C:\Users\frederico.psousa\source\repos\vetoresmatrizes\bin\Debug\net8.0\vetoresmatrizes.deps.json
+C:\Users\frederico.psousa\source\repos\vetoresmatrizes\bin\Debug\net8.0\vetoresmatrizes.runtimeconfig.json
+C:\Users\frederico.psousa\source\repos\vetoresmatrizes\bin\Debug\net8.0\vetoresmatrizes.dll
+C:\Users\frederico.psousa\source\repos\vetoresmatrizes\bin\Debug\net8.0\vetoresmatrizes.pdb
+C:\Users\frederico.psousa\source\repos\vetoresmatrizes\obj\Debug\net8.0\vetoresmatrizes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\frederico.psousa\source\repos\vetoresmatrizes\obj\Debug\net8.0\vetoresmatrizes.AssemblyInfoInputs.cache
+C:\Users\frederico.psousa\source\repos\vetoresmatrizes\obj\Debug\net8.0\vetoresmatrizes.AssemblyInfo.cs
+C:\Users\frederico.psousa\source\repos\vetoresmatrizes\obj\Debug\net8.0\vetoresmatrizes.csproj.CoreCompileInputs.cache
+C:\Users\frederico.psousa\source\repos\vetoresmatrizes\obj\Debug\net8.0\vetoresmatrizes.sourcelink.json
+C:\Users\frederico.psousa\source\repos\vetoresmatrizes\obj\Debug\net8.0\vetoresmatrizes.dll
+C:\Users\frederico.psousa\source\repos\vetoresmatrizes\obj\Debug\net8.0\refint\vetoresmatrizes.dll
+C:\Users\frederico.psousa\source\repos\vetoresmatrizes\obj\Debug\net8.0\vetoresmatrizes.pdb
+C:\Users\frederico.psousa\source\repos\vetoresmatrizes\obj\Debug\net8.0\vetoresmatrizes.genruntimeconfig.cache
+C:\Users\frederico.psousa\source\repos\vetoresmatrizes\obj\Debug\net8.0\ref\vetoresmatrizes.dll
