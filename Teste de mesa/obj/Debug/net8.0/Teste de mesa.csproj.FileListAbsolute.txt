@@ -1,0 +1,15 @@
+C:\Users\frederico.psousa\source\repos\Teste de mesa\bin\Debug\net8.0\Teste de mesa.exe
+C:\Users\frederico.psousa\source\repos\Teste de mesa\bin\Debug\net8.0\Teste de mesa.deps.json
+C:\Users\frederico.psousa\source\repos\Teste de mesa\bin\Debug\net8.0\Teste de mesa.runtimeconfig.json
+C:\Users\frederico.psousa\source\repos\Teste de mesa\bin\Debug\net8.0\Teste de mesa.dll
+C:\Users\frederico.psousa\source\repos\Teste de mesa\bin\Debug\net8.0\Teste de mesa.pdb
+C:\Users\frederico.psousa\source\repos\Teste de mesa\obj\Debug\net8.0\Teste de mesa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\frederico.psousa\source\repos\Teste de mesa\obj\Debug\net8.0\Teste de mesa.AssemblyInfoInputs.cache
+C:\Users\frederico.psousa\source\repos\Teste de mesa\obj\Debug\net8.0\Teste de mesa.AssemblyInfo.cs
+C:\Users\frederico.psousa\source\repos\Teste de mesa\obj\Debug\net8.0\Teste de mesa.csproj.CoreCompileInputs.cache
+C:\Users\frederico.psousa\source\repos\Teste de mesa\obj\Debug\net8.0\Teste de mesa.sourcelink.json
+C:\Users\frederico.psousa\source\repos\Teste de mesa\obj\Debug\net8.0\Teste de mesa.dll
+C:\Users\frederico.psousa\source\repos\Teste de mesa\obj\Debug\net8.0\refint\Teste de mesa.dll
+C:\Users\frederico.psousa\source\repos\Teste de mesa\obj\Debug\net8.0\Teste de mesa.pdb
+C:\Users\frederico.psousa\source\repos\Teste de mesa\obj\Debug\net8.0\Teste de mesa.genruntimeconfig.cache
+C:\Users\frederico.psousa\source\repos\Teste de mesa\obj\Debug\net8.0\ref\Teste de mesa.dll
