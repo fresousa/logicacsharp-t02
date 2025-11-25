@@ -3,11 +3,11 @@
   "WorkspaceRootPath": "C:\\Users\\frederico.psousa\\source\\repos\\maratonaexercicio02\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\frederico.psousa\\source\\repos\\condicionais\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{F4376A5E-AB93-4DC6-B94D-519316B797A1}|maratonaexercicio02.csproj|c:\\users\\frederico.psousa\\source\\repos\\maratonaexercicio02\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F4376A5E-AB93-4DC6-B94D-519316B797A1}|maratonaexercicio02.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\frederico.psousa\\source\\repos\\condicionais\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -17,11 +17,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\frederico.psousa\\source\\repos\\condicionais\\Program.cs",
               "RelativeDocumentMoniker": "..\\condicionais\\Program.cs",
@@ -29,20 +29,20 @@
               "RelativeToolTip": "..\\condicionais\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-18T17:24:40.176Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-18T17:24:40.176Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\frederico.psousa\\source\\repos\\maratonaexercicio02\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\frederico.psousa\\source\\repos\\maratonaexercicio02\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFQAAAAbAAAAAAAAAA==",
+              "ViewState": "AgIAAMEAAAAAAAAAAAAgwOcAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-18T17:09:43.304Z"
+              "WhenOpened": "2025-11-18T17:09:43.304Z",
+              "EditorCaption": ""
             }
           ]
         }
