@@ -3,3 +3,13 @@ C:\Users\frederico.psousa\source\repos\classes\obj\Debug\net8.0\classes.Assembly
 C:\Users\frederico.psousa\source\repos\classes\obj\Debug\net8.0\classes.AssemblyInfo.cs
 C:\Users\frederico.psousa\source\repos\classes\obj\Debug\net8.0\classes.csproj.CoreCompileInputs.cache
 C:\Users\frederico.psousa\source\repos\classes\obj\Debug\net8.0\classes.sourcelink.json
+C:\Users\frederico.psousa\source\repos\classes\bin\Debug\net8.0\classes.exe
+C:\Users\frederico.psousa\source\repos\classes\bin\Debug\net8.0\classes.deps.json
+C:\Users\frederico.psousa\source\repos\classes\bin\Debug\net8.0\classes.runtimeconfig.json
+C:\Users\frederico.psousa\source\repos\classes\bin\Debug\net8.0\classes.dll
+C:\Users\frederico.psousa\source\repos\classes\bin\Debug\net8.0\classes.pdb
+C:\Users\frederico.psousa\source\repos\classes\obj\Debug\net8.0\classes.dll
+C:\Users\frederico.psousa\source\repos\classes\obj\Debug\net8.0\refint\classes.dll
+C:\Users\frederico.psousa\source\repos\classes\obj\Debug\net8.0\classes.pdb
+C:\Users\frederico.psousa\source\repos\classes\obj\Debug\net8.0\classes.genruntimeconfig.cache
+C:\Users\frederico.psousa\source\repos\classes\obj\Debug\net8.0\ref\classes.dll
